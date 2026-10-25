@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "maison-eclaire": {
+      "type": "http",
+      "url": "https://www.maisoneclaire.co/mcp"
+    }
+  }
+}

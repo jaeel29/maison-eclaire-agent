@@ -1,0 +1,10 @@
+{
+  "name": "maison-eclaire",
+  "version": "1.0.0",
+  "description": "Read-only catalogue, gift ideas and delivery terms of Maison Éclaire, a handmade candle shop in Morocco.",
+  "mcpServers": {
+    "maison-eclaire": {
+      "httpUrl": "https://www.maisoneclaire.co/mcp"
+    }
+  }
+}
