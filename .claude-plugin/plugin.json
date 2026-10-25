@@ -1,0 +1,22 @@
+{
+  "name": "maison-eclaire",
+  "displayName": "Maison Éclaire",
+  "version": "1.0.0",
+  "description": "Read-only catalogue, gift ideas and delivery terms of Maison Éclaire, a handmade candle shop in Morocco (candles, gifts and candle-making supplies). Remote MCP server + agent skill, no auth.",
+  "author": {
+    "name": "Maison Éclaire",
+    "url": "https://www.maisoneclaire.co"
+  },
+  "homepage": "https://www.maisoneclaire.co",
+  "repository": "https://github.com/jaeel29/maison-eclaire-agent",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "ecommerce",
+    "shopping",
+    "candles",
+    "gifts",
+    "handmade",
+    "morocco"
+  ]
+}
